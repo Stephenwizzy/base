@@ -1,0 +1,85 @@
+{
+  "chainId": 8453,
+  "deployer": "0x2c0A9DA1A97555107D7e5dd46870F9A53ae2d42d",
+  "owner": "0x2c0A9DA1A97555107D7e5dd46870F9A53ae2d42d",
+  "deployedAt": "2026-06-13T14:09:36.000Z",
+  "contracts": {
+    "ProfileRegistry": {
+      "address": "0x3Ef1A00fa8983d4180022a5A1F9F4E54d9C4C1cf",
+      "transactionHash": "0x63b09d8db149ac769a5354c6e1063fd795cf3fb172b5db7a70856d3f485d0bdf",
+      "constructorArguments": []
+    },
+    "MessageBoard": {
+      "address": "0xABFD647FB223d166c9cBffA38763ef30e1ce3FB0",
+      "transactionHash": "0x510d312584502b9d0949c7589d59d21c28dff84c2ea67bd06f9760c8093744ed",
+      "constructorArguments": []
+    },
+    "Guestbook": {
+      "address": "0xFc39596f348380A67e7aC58cF61900379972d0CD",
+      "transactionHash": "0xc5c56bf7adfb9f8d2fc5094fa2150362e8dad48fbc466564e9729e4f5403ba82",
+      "constructorArguments": []
+    },
+    "ProofRegistry": {
+      "address": "0xB6d123C4789A712Dbe29B41D7C90157CDbB15593",
+      "transactionHash": "0x9535a4fee7d4fe9a14a420390ebe9da5385d59c0ca7a756a211d3408a034963e",
+      "constructorArguments": []
+    },
+    "LinkRegistry": {
+      "address": "0xd8D00B01640D51F18aE35EA5dAd7ceb8a738b5d6",
+      "transactionHash": "0x5d5a468fb78f92e563071cb819adde12175049baac4159a418b777942ef99c25",
+      "constructorArguments": []
+    },
+    "TipJar": {
+      "address": "0xcB3940484f7faE8904bdc5cD08429C4879d06316",
+      "transactionHash": "0x0977c0c5a5feb7d6134e7721e52e8d5dcb1cad231df7c0fd6a8b0234bc8d7344",
+      "constructorArguments": [
+        "0x2c0A9DA1A97555107D7e5dd46870F9A53ae2d42d"
+      ]
+    },
+    "SimplePoll": {
+      "address": "0x7204bBA72F6BF7F929eA6FcDcC221ee7925DFC55",
+      "transactionHash": "0x17f807f3bfddb078946411319794ec07a8b28de8b36ad9eac10a42e599889e8b",
+      "constructorArguments": [
+        "What should this creator toolkit build next?",
+        [
+          "Community tools",
+          "Identity tools",
+          "Funding tools"
+        ]
+      ]
+    },
+    "AchievementBadges": {
+      "address": "0x12394FDaE4877D86e71e0087909221528b2f1E13",
+      "transactionHash": "0x1ee1b00b91f0f20d2077a1f09b94e60060d2c4c49a9f7c1c16e929a8b837b15e",
+      "constructorArguments": [
+        "0x2c0A9DA1A97555107D7e5dd46870F9A53ae2d42d"
+      ]
+    },
+    "AllowlistRegistry": {
+      "address": "0x0025F81C569a717BFa63C13db6dcc81005c9e82e",
+      "transactionHash": "0xea8454d2cf3ee7f0d3114fd0374673f7a9dce548248555133251a39cbbef0991",
+      "constructorArguments": [
+        "0x2c0A9DA1A97555107D7e5dd46870F9A53ae2d42d"
+      ]
+    },
+    "DeploymentDirectory": {
+      "address": "0x350afA9C345Bb39458F61C075518C1a2f87DdD07",
+      "transactionHash": "0x23707220ccd7d3ce30ba8d53895b2b8f4b10099aad7bdc0a79194612546f930b",
+      "constructorArguments": [
+        "0x2c0A9DA1A97555107D7e5dd46870F9A53ae2d42d"
+      ]
+    }
+  },
+  "directoryRegistrations": [
+    "ProfileRegistry",
+    "MessageBoard",
+    "Guestbook",
+    "ProofRegistry",
+    "LinkRegistry",
+    "TipJar",
+    "SimplePoll",
+    "AchievementBadges",
+    "AllowlistRegistry"
+  ],
+  "completedAt": "2026-06-13T14:22:18.431Z"
+}

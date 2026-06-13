@@ -3,6 +3,7 @@ artifacts/
 cache/
 coverage/
 .env
-deployments/*.json
+deployments/chain-*.json
+deployments/.*-progress.json
 typechain-types/
 types/
